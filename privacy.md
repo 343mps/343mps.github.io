@@ -15,7 +15,7 @@ services ("**Services**"), such as when you:
 
 **Questions or concerns?** Reading this privacy notice will help you understand your privacy rights
 and choices. If you do not agree with our policies and practices, please do not use our Services. If
-you still have any questions or concerns, please contact us at <privacy@343mps.io>.
+you still have any questions or concerns, please contact us at <{{ site.author.email }}>.
 ## SUMMARY OF KEY POINTS
 
 **_This summary provides key points from our privacy notice, but you can find out more details about
@@ -61,7 +61,7 @@ certain rights regarding your personal information. Click [here](#privacyrights)
 
 ### How do you exercise your rights?
 
-The easiest way to exercise your rights is by [contacting us](mailto:privacy@343mps.io). We
+The easiest way to exercise your rights is by [contacting us](mailto:{{ site.author.email }}). We
 will consider and act upon any request in accordance with applicable data protection laws.
 
 
@@ -321,7 +321,7 @@ withdrawal, nor when applicable law allows, will it affect the processing of you
 information conducted in reliance on lawful processing grounds other than consent.
 
 If you have questions or comments about your privacy rights, you may email us at
-privacy@343mps.io.
+<{{ site.author.email }}>.
 
 ## 9. CONTROLS FOR DO-NOT-TRACK FEATURES
 
@@ -396,7 +396,7 @@ We may also collect other personal information outside of these categories insta
 More information about our data collection and sharing practices can be found in this privacy
 notice.
 
-You may contact us by email at <privacy@343mps.io>, or by referring to the contact details at the
+You may contact us by email at <{{ site.author.email }}>, or by referring to the contact details at the
 bottom of this document.
 
 If you are using an authorized agent to exercise your right to opt out we may deny a request if the
@@ -474,7 +474,7 @@ such additionally provided information as soon as we finish verifying you.
 * You may request to opt out from future selling of your personal information to third parties. Upon
 receiving an opt-out request, we will act upon the request as soon as feasibly possible, but no
 later than fifteen (15) days from the date of the request submission. To exercise these rights, you
-can contact us by email at privacy@343mps.io, or by referring to the contact details at the bottom
+can contact us by email at {{ site.author.email }}, or by referring to the contact details at the bottom
 of this document. If you have a complaint about how we handle your data, we would like to hear from
 you.
 
@@ -491,7 +491,7 @@ privacy notice frequently to be informed of how we are protecting your informati
 
 ## 12. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 
-If you have questions or comments about this notice, you may email us at <privacy@343mps.io>.
+If you have questions or comments about this notice, you may email us at <{{ site.author.email }}>.
 
 ## 13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
