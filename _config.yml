@@ -58,3 +58,13 @@ remote_theme: jekyll/minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+
+# With Jekyll 3.x it's necessary to specify all exclusions including the defaults.
+# This is improved in Jekyll 4.x where excludes extend the defaults instead of replacing them.
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - README.md
+  - vendor/
