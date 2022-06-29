@@ -490,8 +490,8 @@ If you have questions or comments about this notice, you may email us at <{{ sit
 
 Based on the applicable laws of your country, you may have the right to request access to the
 personal information we collect from you, change that information, or delete it. To request to
-review, update, or delete your personal information, please submit a request form by clicking
-[here](https://app.termly.io/notify/d3e1a32a-052a-4897-b0e9-d17461260e69).
+review, update, or delete your personal information, please submit a request form by e-mailing us at
+<{{ site.author.email }}>.
 
 
 This privacy policy was created using Termly's [Privacy Policy
