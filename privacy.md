@@ -16,7 +16,7 @@ services ("**Services**"), such as when you:
 **Questions or concerns?** Reading this privacy notice will help you understand your privacy rights
 and choices. If you do not agree with our policies and practices, please do not use our Services. If
 you still have any questions or concerns, please contact us at <{{ site.author.email }}>.
-## SUMMARY OF KEY POINTS
+## Summary of key points
 
 **_This summary provides key points from our privacy notice, but you can find out more details about
 any of these topics by clicking the link following each key point or by using our table of contents
@@ -64,20 +64,18 @@ certain rights regarding your personal information. Click [here](#privacyrights)
 The easiest way to exercise your rights is by [contacting us](mailto:{{ site.author.email }}). We
 will consider and act upon any request in accordance with applicable data protection laws.
 
-
-
 ### Want to learn more about what 343mps does with any information we collect?
 
 Click [here](#toc) to review the notice in full.
 
 
-## TABLE OF CONTENTS
+## Table of contents
 
 1. [WHAT INFORMATION DO WE COLLECT?](#what-information-do-we-collect)
 2. [HOW DO WE PROCESS YOUR INFORMATION?](#how-do-we-process-your-information)
 3. [WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR PERSONAL INFORMATION?](#what-legal-bases-do-we-rely-on-to-process-your-personal-information)
 4. [WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?](#when-and-with-whom-do-we-share-your-personal-information)
-5 [HOW DO WE HANDLE YOUR SOCIAL LOGINS?](#how-do-we-handle-your-social-logins)
+5. [HOW DO WE HANDLE YOUR SOCIAL LOGINS?](#how-do-we-handle-your-social-logins)
 6. [HOW LONG DO WE KEEP YOUR INFORMATION?](#how-long-do-we-keep-your-information)
 7. [HOW DO WE KEEP YOUR INFORMATION SAFE?](#how-do-we-keep-your-information-safe)
 8. [WHAT ARE YOUR PRIVACY RIGHTS?](#what-are-your-privacy-rights)
@@ -87,7 +85,7 @@ Click [here](#toc) to review the notice in full.
 12. [HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#how-can-you-contact-us-about-this-notice)
 13. [HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?](#how-can-you-review-update-or-delete-the-data-we-collect-from-you)
 
-## 1. WHAT INFORMATION DO WE COLLECT?
+## What information do we collect?
 
 ### Personal information you disclose to us
 
@@ -138,7 +136,7 @@ grant or deny us access to each individual permission. For more information rega
 permissions, refer to the [Facebook Permissions
 Reference](https://developers.facebook.com/docs/facebook-login/permissions) page.
 
-## 2. HOW DO WE PROCESS YOUR INFORMATION?
+## How do we process your information?
 
 **_In Short:_** _We process your information to provide, improve, and administer our Services,
 communicate with you, for security and fraud prevention, and to comply with law. We may also process
@@ -157,7 +155,7 @@ our Services, including:**
 * **To save or protect an individual's vital interest.** We may process your information when
   necessary to save or protect an individual’s vital interest, such as to prevent harm.
 
-## 3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?
+## What legal bases do we rely on to process your information?
 
 _**In Short:** We only process your personal information when we believe it is necessary and we have
 a valid legal reason (i.e., legal basis) to do so under applicable law, like with your consent, to
@@ -219,7 +217,7 @@ information without your consent, including, for example:
 * If the collection is solely for journalistic, artistic, or literary purposes
 * If the information is publicly available and is specified by the regulations
 
-## 4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
+## When and with whom do we share your personal information?
 
 **_In Short:_** _We may share information in specific situations described in this section and/or
 with the following third parties._
@@ -230,7 +228,7 @@ We may need to share your personal information in the following situations:
     negotiations of, any merger, sale of company assets, financing, or acquisition of all or a
     portion of our business to another company.
 
-## 5. HOW DO WE HANDLE YOUR SOCIAL LOGINS?
+## How do we handle your social logins?
 
 **_In Short:_** _If you choose to register or log in to our services using a social media account,
 we may have access to certain information about you._
@@ -252,7 +250,7 @@ social media provider. We recommend that you review their privacy notice to unde
 collect, use, and share your personal information, and how you can set your privacy preferences on
 their sites and apps.
 
-## 6. HOW LONG DO WE KEEP YOUR INFORMATION?
+## How long do we keep your information?
 
 **_In Short:_** _We keep your information for as long as necessary to fulfill the purposes outlined
 in this privacy notice unless otherwise required by law._
@@ -267,9 +265,7 @@ either delete or anonymize such information, or, if this is not possible (for ex
 personal information has been stored in backup archives), then we will securely store your personal
 information and isolate it from any further processing until deletion is possible.
 
-
-
-## 7. HOW DO WE KEEP YOUR INFORMATION SAFE?
+## How do we keep your information safe?
 
 **_In Short:_** _We aim to protect your personal information through a system of organizational and
 technical security measures._
@@ -284,7 +280,7 @@ will do our best to protect your personal information, transmission of personal 
 from our Services is at your own risk. You should only access the Services within a secure
 environment.
 
-## 8. WHAT ARE YOUR PRIVACY RIGHTS?
+## What are your privacy rights?
 
 **_In Short:_** _In some regions, such as the European Economic Area (EEA), United Kingdom (UK), and
 Canada, you have rights that allow you greater access to and control over your personal information.
@@ -322,7 +318,7 @@ information conducted in reliance on lawful processing grounds other than consen
 If you have questions or comments about your privacy rights, you may email us at
 <{{ site.author.email }}>.
 
-## 9. CONTROLS FOR DO-NOT-TRACK FEATURES
+## Controls for do-not-track features
 
 Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track
 ("DNT") feature or setting you can activate to signal your privacy preference not to have data about
@@ -332,7 +328,7 @@ currently respond to DNT browser signals or any other mechanism that automatical
 choice not to be tracked online. If a standard for online tracking is adopted that we must follow in
 the future, we will inform you about that practice in a revised version of this privacy notice.
 
-## 10. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
+## Do california residents have specific privacy rights?
 
 **_In Short:_** _Yes, if you are a resident of California, you are granted specific rights regarding
 access to your personal information._
@@ -442,8 +438,6 @@ a consumer request.
 
 We will not discriminate against you if you exercise your privacy rights.
 
-
-
 #### Verification process
 
 Upon receiving your request, we will need to verify your identity to determine you are the same
@@ -478,7 +472,7 @@ of this document. If you have a complaint about how we handle your data, we woul
 you.
 
 
-## 11. DO WE MAKE UPDATES TO THIS NOTICE?
+## Do we make updates to this notice?
 
 _**In Short:** Yes, we will update this notice as necessary to stay compliant with relevant laws._
 
@@ -488,11 +482,11 @@ make material changes to this privacy notice, we may notify you either by promin
 notice of such changes or by directly sending you a notification. We encourage you to review this
 privacy notice frequently to be informed of how we are protecting your information.
 
-## 12. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
+## How can you contact us about this notice?
 
 If you have questions or comments about this notice, you may email us at <{{ site.author.email }}>.
 
-## 13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
+## How can you review, update, or delete the data we collect from you?
 
 Based on the applicable laws of your country, you may have the right to request access to the
 personal information we collect from you, change that information, or delete it. To request to
