@@ -94,51 +94,82 @@ Click [here](#toc) to review the notice in full.
 
 **_In short:_** _We collect personal information that you provide to us._
 
-We collect personal information that you voluntarily provide to us when you express an interest in obtaining information about us or our products and Services, when you participate in activities on the Services, or otherwise when you contact us.
+We collect personal information that you voluntarily provide to us when you express an interest in
+obtaining information about us or our products and Services, when you participate in activities on
+the Services, or otherwise when you contact us.
 
 ### Personal Information Provided by You
 
-The personal information that we collect depends on the context of your interactions with us and the Services, the choices you make, and the products and features you use. The personal information we collect may include the following:
+The personal information that we collect depends on the context of your interactions with us and the
+Services, the choices you make, and the products and features you use. The personal information we
+collect may include the following:
 
 * email addresses
 * names
 
 ### Social Media Login Data
 
-We may provide you with the option to register with us using your existing social media account details, like your Facebook, Twitter, or other social media account. If you choose to register in this way, we will collect the information described in the section called "[HOW DO WE HANDLE YOUR SOCIAL LOGINS?](#sociallogins)" below.
+We may provide you with the option to register with us using your existing social media account
+details, like your Facebook, Twitter, or other social media account. If you choose to register in
+this way, we will collect the information described in the section called "[HOW DO WE HANDLE YOUR
+SOCIAL LOGINS?](#sociallogins)" below.
 
 ### Application Data
 
-If you use our application(s), we also may collect the following information if you choose to provide us with access or permission:
+If you use our application(s), we also may collect the following information if you choose to
+provide us with access or permission:
 
-*   _Push Notifications._ We may request to send you push notifications regarding your account or certain features of the application(s). If you wish to opt out from receiving these types of communications, you may turn them off in your device's settings.
+*   _Push Notifications._ We may request to send you push notifications regarding your account or
+    certain features of the application(s). If you wish to opt out from receiving these types of
+    communications, you may turn them off in your device's settings.
 
-This information is primarily needed to maintain the security and operation of our application(s), for troubleshooting, and for our internal analytics and reporting purposes.
+This information is primarily needed to maintain the security and operation of our application(s),
+for troubleshooting, and for our internal analytics and reporting purposes.
 
-All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information.
+All personal information that you provide to us must be true, complete, and accurate, and you must
+notify us of any changes to such personal information.
 
 ### Information collected when you use our Facebook application(s).
 
-We by default access your [Facebook](https://www.facebook.com/about/privacy/) basic account information, including your name, email, gender, birthday, current city, and profile picture URL, as well as other information that you choose to make public. We may also request access to other permissions related to your account, such as friends, check-ins, and likes, and you may choose to grant or deny us access to each individual permission. For more information regarding Facebook permissions, refer to the [Facebook Permissions Reference](https://developers.facebook.com/docs/facebook-login/permissions) page.
+We by default access your [Facebook](https://www.facebook.com/about/privacy/) basic account
+information, including your name, email, gender, birthday, current city, and profile picture URL, as
+well as other information that you choose to make public. We may also request access to other
+permissions related to your account, such as friends, check-ins, and likes, and you may choose to
+grant or deny us access to each individual permission. For more information regarding Facebook
+permissions, refer to the [Facebook Permissions
+Reference](https://developers.facebook.com/docs/facebook-login/permissions) page.
 
 ## 2. HOW DO WE PROCESS YOUR INFORMATION?
 
-**_In Short:_** _We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent._
+**_In Short:_** _We process your information to provide, improve, and administer our Services,
+communicate with you, for security and fraud prevention, and to comply with law. We may also process
+your information for other purposes with your consent._
 
-**We process your personal information for a variety of reasons, depending on how you interact with our Services, including:**
+**We process your personal information for a variety of reasons, depending on how you interact with
+our Services, including:**
 
-* **To respond to user inquiries/offer support to users.** We may process your information to respond to your inquiries and solve any potential issues you might have with the requested service.
-* **To request feedback.** We may process your information when necessary to request feedback and to contact you about your use of our Services.
-* **To deliver targeted advertising to you.** We may process your information to develop and display personalized content and advertising tailored to your interests, location, and more.
-* **To save or protect an individual's vital interest.** We may process your information when necessary to save or protect an individual’s vital interest, such as to prevent harm.
+* **To respond to user inquiries/offer support to users.** We may process your information to
+  respond to your inquiries and solve any potential issues you might have with the requested
+  service.
+* **To request feedback.** We may process your information when necessary to request feedback and to
+  contact you about your use of our Services.
+* **To deliver targeted advertising to you.** We may process your information to develop and display
+  personalized content and advertising tailored to your interests, location, and more.
+* **To save or protect an individual's vital interest.** We may process your information when
+  necessary to save or protect an individual’s vital interest, such as to prevent harm.
 
 ## 3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?
 
-_**In Short:** We only process your personal information when we believe it is necessary and we have a valid legal reason (i.e., legal basis) to do so under applicable law, like with your consent, to comply with laws, to provide you with services to enter into or fulfill our contractual obligations, to protect your rights, or to fulfill our legitimate business interests._
+_**In Short:** We only process your personal information when we believe it is necessary and we have
+a valid legal reason (i.e., legal basis) to do so under applicable law, like with your consent, to
+comply with laws, to provide you with services to enter into or fulfill our contractual obligations,
+to protect your rights, or to fulfill our legitimate business interests._
 
 _**If you are located in the EU or UK, this section applies to you.**_
 
-The General Data Protection Regulation (GDPR) and UK GDPR require us to explain the valid legal bases we rely on in order to process your personal information. As such, we may rely on the following legal bases to process your personal information:
+The General Data Protection Regulation (GDPR) and UK GDPR require us to explain the valid legal
+bases we rely on in order to process your personal information. As such, we may rely on the
+following legal bases to process your personal information:
 
 * **Consent.** We may process your information if you have given us permission (i.e., consent) to
   use your personal information for a specific purpose. You can withdraw your consent at any time.
