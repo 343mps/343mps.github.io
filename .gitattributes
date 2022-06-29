@@ -1,2 +1,0 @@
-*.mp3 filter=lfs diff=lfs merge=lfs -text
-assets/audio/soundscape-forest-metallic-drone-2.mp3 text !filter !merge !diff
