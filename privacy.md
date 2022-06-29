@@ -73,20 +73,19 @@ Click [here](#toc) to review the notice in full.
 
 ## TABLE OF CONTENTS
 
-1. [WHAT INFORMATION DO WE COLLECT?](#infocollect)
-2. [HOW DO WE PROCESS YOUR INFORMATION?](#infouse)
-3. [WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR PERSONAL INFORMATION?](#legalbases)
-4. [WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?](#whoshare)
-5 [HOW DO WE HANDLE YOUR SOCIAL LOGINS?](#sociallogins)
-6. [HOW LONG DO WE KEEP YOUR INFORMATION?](#inforetain)
-7. [HOW DO WE KEEP YOUR INFORMATION SAFE?](#infosafe)
-8. [WHAT ARE YOUR PRIVACY RIGHTS?](#privacyrights)
-9. [CONTROLS FOR DO-NOT-TRACK FEATURES](#DNT)
-10. [DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?](#caresidents)
-11. [DO WE MAKE UPDATES TO THIS NOTICE?](#policyupdates)
-12. [HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#contact)
-13. [HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?](#request)
-
+1. [WHAT INFORMATION DO WE COLLECT?](#what-information-do-we-collect)
+2. [HOW DO WE PROCESS YOUR INFORMATION?](#how-do-we-process-your-information)
+3. [WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR PERSONAL INFORMATION?](#what-legal-bases-do-we-rely-on-to-process-your-personal-information)
+4. [WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?](#when-and-with-whom-do-we-share-your-personal-information)
+5 [HOW DO WE HANDLE YOUR SOCIAL LOGINS?](#how-do-we-handle-your-social-logins)
+6. [HOW LONG DO WE KEEP YOUR INFORMATION?](#how-long-do-we-keep-your-information)
+7. [HOW DO WE KEEP YOUR INFORMATION SAFE?](#how-do-we-keep-your-information-safe)
+8. [WHAT ARE YOUR PRIVACY RIGHTS?](#what-are-your-privacy-rights)
+9. [CONTROLS FOR DO-NOT-TRACK FEATURES](#controls-for-do-not-track-features)
+10. [DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?](#do-california-residents-have-specific-privacy-rights)
+11. [DO WE MAKE UPDATES TO THIS NOTICE?](#do-we-make-updates-to-this-notice)
+12. [HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#how-can-you-contact-us-about-this-notice)
+13. [HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?](#how-can-you-review-update-or-delete-the-data-we-collect-from-you)
 
 ## 1. WHAT INFORMATION DO WE COLLECT?
 
