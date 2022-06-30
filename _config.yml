@@ -1,10 +1,22 @@
 title: 343mps
 author:
-  name: 343mps
+  name: The 343mps team
   email: hello@343mps.io
 description: > # this means to ignore newlines until "show_excerpts:"
-  Creative audio and music applications.
+  Creative audio and music applications
 show_excerpts: false # set to true to show excerpts on the homepage
+
+# jekyll-seo-tag configuration
+# See https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
+twitter:
+  username: 343mps
+  card: summary
+
+logo: /assets/img/logo.png
+social:
+  name: 343mps
+  links:
+    - https://github.com/343mps
 
 # Minima theme config.  See https://github.com/jekyll/minima
 minima:
