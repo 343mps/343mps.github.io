@@ -1,5 +1,6 @@
 ---
 title: Echoplex
+description: AI-powered soundscape generator from 343mps.
 layout: page
 ---
 
